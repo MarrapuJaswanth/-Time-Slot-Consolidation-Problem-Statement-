@@ -13,6 +13,8 @@ for i in range(n):
 ----------------------------------------------------------------------------------
 #  Maximum Signal Strength Problem Statement
 https://www.programiz.com/python-programming/online-compiler/
+
+
 n = int(input())
 
 arr = list(map(int, input().split()))
