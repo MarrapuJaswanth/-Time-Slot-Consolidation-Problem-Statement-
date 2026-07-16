@@ -12,7 +12,7 @@ for i in range(n):
 
 ----------------------------------------------------------------------------------
 #  Maximum Signal Strength Problem Statement
-LInk: https://www.programiz.com/python-programming/online-compiler/
+LInk: https://www.programiz.com/online-compiler/4DnfCWSdA0551
 
 
 n = int(input())
@@ -34,7 +34,7 @@ print(max_sum)
 -----------------------------------------------------------------------------------------------
 # Communication Channel Analyzer Problem Statement
 
-Link: https://www.programiz.com/python-programming/online-compiler/
+Link: https://www.programiz.com/online-compiler/7V43suTIuGcfh
 
 # Input string
 s = input("Enter the string: ")
